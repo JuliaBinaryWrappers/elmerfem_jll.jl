@@ -1,0 +1,70 @@
+[[elmerfem]]
+arch = "aarch64"
+git-tree-sha1 = "0480be4e48d3e3f6264adf969cb12b8510a9e31f"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[elmerfem.download]]
+    sha256 = "ca1587d696f59cce58dde42ce7dab44374bce5762d88630786783d1a585a1005"
+    url = "https://github.com/JuliaBinaryWrappers/elmerfem_jll.jl/releases/download/elmerfem-v9.0.20231229+0/elmerfem.v9.0.20231229.aarch64-linux-gnu-libgfortran5.tar.gz"
+[[elmerfem]]
+arch = "aarch64"
+git-tree-sha1 = "1e554e3d69ed6361c8b9542c149f706ec43bf610"
+libc = "musl"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[elmerfem.download]]
+    sha256 = "c387ecb25296eee50a52ccf7faacf61f26006ccbe0f40df13a5be39632f86b28"
+    url = "https://github.com/JuliaBinaryWrappers/elmerfem_jll.jl/releases/download/elmerfem-v9.0.20231229+0/elmerfem.v9.0.20231229.aarch64-linux-musl-libgfortran5.tar.gz"
+[[elmerfem]]
+arch = "i686"
+git-tree-sha1 = "4d4f0e0a3ad42731dc14691db8b63fa122fe95c1"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[elmerfem.download]]
+    sha256 = "17fd3ebce3cf7002a03d814f930bb0459e042018e56d7efcffa6b1d93e983dfa"
+    url = "https://github.com/JuliaBinaryWrappers/elmerfem_jll.jl/releases/download/elmerfem-v9.0.20231229+0/elmerfem.v9.0.20231229.i686-linux-gnu-libgfortran5.tar.gz"
+[[elmerfem]]
+arch = "i686"
+git-tree-sha1 = "df22f02773600dbe73a0fe0efdac60e8510e67ff"
+libc = "musl"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[elmerfem.download]]
+    sha256 = "131f76dee712653b559729d78e3fc7b29372ba4c01de0e0547926439eb31b763"
+    url = "https://github.com/JuliaBinaryWrappers/elmerfem_jll.jl/releases/download/elmerfem-v9.0.20231229+0/elmerfem.v9.0.20231229.i686-linux-musl-libgfortran5.tar.gz"
+[[elmerfem]]
+arch = "powerpc64le"
+git-tree-sha1 = "fd2b9d6b81dc2e22922100dac535bb85795445f3"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[elmerfem.download]]
+    sha256 = "f802b18d270636e94412495ccd8758e37eb82425fc0e6a65a8cceec349d5b34d"
+    url = "https://github.com/JuliaBinaryWrappers/elmerfem_jll.jl/releases/download/elmerfem-v9.0.20231229+0/elmerfem.v9.0.20231229.powerpc64le-linux-gnu-libgfortran5.tar.gz"
+[[elmerfem]]
+arch = "x86_64"
+git-tree-sha1 = "99adfb4b2b224d6a3b3cd2fb491c0942e4dcd0e5"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[elmerfem.download]]
+    sha256 = "ffdfc0996071063db0f6051fe9cd2fdec4fa8753f42402873ee76e3f87b5b1d0"
+    url = "https://github.com/JuliaBinaryWrappers/elmerfem_jll.jl/releases/download/elmerfem-v9.0.20231229+0/elmerfem.v9.0.20231229.x86_64-linux-gnu-libgfortran5.tar.gz"
+[[elmerfem]]
+arch = "x86_64"
+git-tree-sha1 = "8daba5778204203db160969695e15e4a7fc74757"
+libc = "musl"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[elmerfem.download]]
+    sha256 = "d1ed2bfbae1ede11ded4e46739fe06ca8300230bf86035b4a0ebb22277fefbbe"
+    url = "https://github.com/JuliaBinaryWrappers/elmerfem_jll.jl/releases/download/elmerfem-v9.0.20231229+0/elmerfem.v9.0.20231229.x86_64-linux-musl-libgfortran5.tar.gz"
